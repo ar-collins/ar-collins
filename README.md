@@ -1,16 +1,18 @@
-## Hi there 👋
+# Alex Collins
 
-<!--
-**ar-collins/ar-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical recruiter and program manager with a focus on AI, infrastructure, and systems-heavy teams.
 
-Here are some ideas to get you started:
+## What I work on
+- Technical recruiting for AI, infra, and security roles
+- Hiring process design and recruiting operations
+- Exploring how AI tools can improve sourcing, screening, and candidate experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Currently learning
+- GitHub workflows
+- Light scripting and data analysis
+- AI infrastructure fundamentals
+
+## Find me
+- LinkedIn: https://www.linkedin.com/in/alexcollinsrecruiter/
+
 -->
